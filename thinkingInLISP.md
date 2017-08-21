@@ -1,6 +1,6 @@
 # Thinking in LISP
 
-The code in this repository deals with the following problem:
+To help understand how to think in LISP, the code in this repository will go through the following problem:
 
 ```
 Given a list of items of arbitrary length, produce all possible sequences
@@ -27,19 +27,29 @@ Paul Graham wrote an article entitled, "Beating the Averages." In the article he
 
 
 ```
-"What's so great about Lisp? And if Lisp is so great, why doesn't everyone use it? These sound like rhetorical questions, but actually they have straightforward answers. Lisp is so great not because of some magic quality visible only to devotees, but because it is simply the most powerful language available."
+"What's so great about Lisp? And if Lisp is so great, 
+why doesn't everyone use it? These sound like rhetorical 
+questions, but actually they have straightforward answers. 
+Lisp is so great not because of some magic quality visible 
+only to devotees, but because it is simply the 
+most powerful language available."
 ```
 
 ```
-"Ordinarily technology changes fast. But programming languages are different: programming languages are not just technology, but what programmers think in. They're half technology and half religion."
+"By induction, the only programmers in a 
+position to see all the differences in power 
+between the various languages are those who understand 
+the most powerful one. (This is probably 
+what Eric Raymond meant about Lisp making 
+you a better programmer.)"
 ```
 
 ```
-"By induction, the only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one. (This is probably what Eric Raymond meant about Lisp making you a better programmer.)"
-```
-
-```
-"Ordinarily technology changes fast. But programming languages are different: programming languages are not just technology, but what programmers think in. They're half technology and half religion."
+"Ordinarily technology changes fast. 
+But programming languages are different: programming 
+languages are not just technology, 
+but what programmers think in. They're 
+half technology and half religion."
 ```
 
 
@@ -80,7 +90,7 @@ Then you can run the file or any file with the rkt extension.
 
 ## Running the tests
 
-All the tests, i.e. the check-expect statements will can be run, 
+All the tests, i.e. the check-expect statements can be run, 
 by pressing the run button on the Racket IDE installed as above. 
 
 
